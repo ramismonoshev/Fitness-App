@@ -1,0 +1,133 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ca.stclaircollege.fitgrind"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="25" />
+9-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:6:5-80
+12-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:6:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:7:5-81
+13-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+14-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:8:5-78
+14-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:8:22-75
+15
+16    <uses-feature
+16-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:10:5-12:36
+17        android:name="android.hardware.camera"
+17-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:11:9-47
+18        android:required="false" />
+18-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:12:9-33
+19
+20    <meta-data
+20-->[com.android.support:design:25.3.1] /Users/ramismonoshev/.gradle/caches/transforms-2/files-2.1/f812d36bd95a978faf03a2e262471ff9/design-25.3.1/AndroidManifest.xml:25:5-27:34
+21        android:name="android.support.VERSION"
+21-->[com.android.support:design:25.3.1] /Users/ramismonoshev/.gradle/caches/transforms-2/files-2.1/f812d36bd95a978faf03a2e262471ff9/design-25.3.1/AndroidManifest.xml:26:9-47
+22        android:value="25.3.1" />
+22-->[com.android.support:design:25.3.1] /Users/ramismonoshev/.gradle/caches/transforms-2/files-2.1/f812d36bd95a978faf03a2e262471ff9/design-25.3.1/AndroidManifest.xml:27:9-31
+23
+24    <application
+24-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:14:5-61:19
+25        android:allowBackup="true"
+25-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:15:9-35
+26        android:debuggable="true"
+27        android:icon="@mipmap/ic_launcher"
+27-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:16:9-43
+28        android:label="@string/app_name"
+28-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:17:9-41
+29        android:supportsRtl="true"
+29-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:18:9-35
+30        android:testOnly="true"
+31        android:theme="@style/AppTheme" >
+31-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:19:9-40
+32        <activity
+32-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:20:9-29:20
+33            android:name="ca.stclaircollege.fitgrind.SplashActivity"
+33-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:21:13-43
+34            android:label="@string/app_name"
+34-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:22:13-45
+35            android:theme="@style/SplashTheme" >
+35-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:23:13-47
+36            <intent-filter>
+36-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:24:13-28:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:25:17-69
+37-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:25:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:27:17-77
+39-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:27:27-74
+40            </intent-filter>
+41        </activity>
+42        <activity
+42-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:30:9-32:59
+43            android:name="ca.stclaircollege.fitgrind.MainActivity"
+43-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:31:13-41
+44            android:theme="@style/AppTheme.NoActionBar" />
+44-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:32:13-56
+45        <activity android:name="ca.stclaircollege.fitgrind.WorkoutExerciseActivity" />
+45-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:34:9-61
+45-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:34:19-58
+46        <activity
+46-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:35:9-42:20
+47            android:name="ca.stclaircollege.fitgrind.SettingsActivity"
+47-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:36:13-45
+48            android:label="@string/title_activity_settings"
+48-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:37:13-60
+49            android:parentActivityName="ca.stclaircollege.fitgrind.MainActivity" >
+49-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:38:13-55
+50            <meta-data
+50-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:39:13-41:75
+51                android:name="android.support.PARENT_ACTIVITY"
+51-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:40:17-63
+52                android:value="ca.stclaircollege.fitgrind.MainActivity" />
+52-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:41:17-72
+53        </activity>
+54        <activity android:name="ca.stclaircollege.fitgrind.AddExerciseActivity" />
+54-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:43:9-57
+54-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:43:19-54
+55
+56        <provider
+56-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:45:9-53:20
+57            android:name="android.support.v4.content.FileProvider"
+57-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:46:13-67
+58            android:authorities="ca.stclaircollege.fileprovider"
+58-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:47:13-65
+59            android:exported="false"
+59-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:48:13-37
+60            android:grantUriPermissions="true" >
+60-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:49:13-47
+61            <meta-data
+61-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:50:13-52:54
+62                android:name="android.support.FILE_PROVIDER_PATHS"
+62-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:51:17-67
+63                android:resource="@xml/file_paths" />
+63-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:52:17-51
+64        </provider>
+65
+66        <activity
+66-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:55:9-57:68
+67            android:name="ca.stclaircollege.fitgrind.FullScreenImageActivity"
+67-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:56:13-52
+68            android:theme="@style/AppTheme.TransparentActionBar" />
+68-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:57:13-65
+69        <activity
+69-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:58:9-60:68
+70            android:name="ca.stclaircollege.fitgrind.ViewProgressActivity"
+70-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:59:13-49
+71            android:theme="@style/AppTheme.TransparentActionBar" />
+71-->/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/AndroidManifest.xml:60:13-65
+72    </application>
+73
+74</manifest>

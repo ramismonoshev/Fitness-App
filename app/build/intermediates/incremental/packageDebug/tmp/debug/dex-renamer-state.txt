@@ -1,0 +1,4 @@
+#Sun Nov 14 17:47:24 KGT 2021
+base.0=/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

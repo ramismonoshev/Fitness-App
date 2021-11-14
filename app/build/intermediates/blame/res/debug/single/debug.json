@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/anim_enter_from_up.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/anim/enter_from_up.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_view_weight_log.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/view_weight_log.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_activity_workout_exercise.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/activity_workout_exercise.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_view_edited_exercise.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/view_edited_exercise.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_activity_full_screen_image.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/activity_full_screen_image.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_content_main.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/drawable_ic_today_black_tabbed_24dp.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/drawable/ic_today_black_tabbed_24dp.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/drawable_ic_today_black_24dp.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/drawable/ic_today_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/drawable_logo_launch.png.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/drawable/logo_launch.png"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/drawable_ic_settings_black_24dp.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/drawable/ic_settings_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/drawable_ic_search_black_24dp.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/drawable/ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/drawable_splash_layout.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/drawable/splash_layout.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/drawable_ic_chevron_right_black_24dp.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/drawable/ic_chevron_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/drawable_ic_food.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/drawable/ic_food.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_view_food_item.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/view_food_item.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/drawable_ic_help_black_24dp.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/drawable/ic_help_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/drawable_ic_info_black_24dp.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/drawable/ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_fragment_add_custom_food.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/fragment_add_custom_food.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_activity_add_exercise.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/activity_add_exercise.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_fragment_view_food.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/fragment_view_food.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/menu_activity_main_drawer.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/drawable_ic_photo_black_24dp.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/drawable/ic_photo_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_view_edited_food_item.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/view_edited_food_item.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_fragment_credits.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/fragment_credits.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_activity_view_progress.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/activity_view_progress.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/drawable_highlight_button.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/drawable/highlight_button.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/drawable_ic_add_black_24dp.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/drawable/ic_add_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/drawable_ic_home_black_24dp.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/menu_workout_menu.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/menu/workout_menu.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_program_view.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/program_view.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_view_calorie_log.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/view_calorie_log.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_fragment_main.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/drawable_ic_scale_bathroom.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/drawable/ic_scale_bathroom.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/drawable_ic_more_vert_black_24dp.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/drawable/ic_more_vert_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/menu_popup_menu.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/menu/popup_menu.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_fragment_view_calorie_log.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/fragment_view_calorie_log.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_fragment_view_progress_log.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/fragment_view_progress_log.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/drawable_ic_event_available_black_24dp.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/drawable/ic_event_available_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/xml_file_paths.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/xml/file_paths.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_fragment_edit_food.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/fragment_edit_food.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_fragment_view_calorie_day_log.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/fragment_view_calorie_day_log.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/drawable_ic_assignment_black_24dp.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/drawable/ic_assignment_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_view_edited_program.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/view_edited_program.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_view_edited_cardio.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/view_edited_cardio.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/drawable_ic_menu_camera.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_nav_header_main.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_fragment_weight_log.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/fragment_weight_log.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/drawable_ic_delete.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_search_layout.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/search_layout.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_app_bar_main.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_fragment_exercise.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/fragment_exercise.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_fragment_add_food.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/fragment_add_food.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/xml_preferences.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_fragment_workout_program.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/fragment_workout_program.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/menu_image_menu.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/menu/image_menu.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/drawable_ic_chevron_left_black_24dp.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/drawable/ic_chevron_left_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/drawable_side_nav_bar.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/drawable_ic_access_alarm_black_24dp.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/drawable/ic_access_alarm_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/anim_fade_in.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/anim_fade_out.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/layout_exercise_view.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/layout/exercise_view.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/anim_layout_animation.xml.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/anim/layout_animation.xml"
+    },
+    {
+        "merged": "/Users/ramismonoshev/Fitness-App-FitGrind/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/ramismonoshev/Fitness-App-FitGrind/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]
